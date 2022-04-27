@@ -23,7 +23,7 @@ I decided to go a rainy cloud sort of route.
 
 
 # Lab Project 9
-## A lab project about video and audio. 
+## This lab was about video and audio. 
 I made a dubstep mirror, because why not.
 *[Source Code](https://github.com/sawyerae07/MAGD-150-Assignments/blob/gh-pages/s22magd150lab09_Sawyer/sketch.js)*
 
@@ -31,6 +31,6 @@ I made a dubstep mirror, because why not.
 
 
 # Lab Project 10
-## One of my favorite lab assignments. 
-We worked with 3D objects, textures, camera and lighting. I made rotating city stuff.
+## This lab was about 3D objects, textures, camera and lighting.
+One of my favorite lab assignments. I made rotating city stuff.
 *[Source Code](https://github.com/sawyerae07/MAGD-150-Assignments/edit/gh-pages/s22magd150lab10_Sawyer/sketch.js)*
